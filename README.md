@@ -14,3 +14,6 @@ In this project, we have to make a Turtlebot 2 Robot move along a maze fast and 
   [roslaunch turtle_bot_maze_runner turtle_bot_launch.launch] 
   
  - This should start running the python program for the turtle bot
+
+
+Checkout the video to see the final result
